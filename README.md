@@ -41,7 +41,6 @@ Want to chat about **AI, sci-fi books, or your favorite Mario Kart track**? Hit 
   <img src="https://img.shields.io/badge/MLflow-00B5F5?style=for-the-badge&logo=mlflow&logoColor=white" title="Managing ML models, experiments, and tracking">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" title="Building data apps and interactive dashboards">
   <img src="https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logo=python&logoColor=white" title="Statistical modeling and econometrics in Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Building lightweight web applications">
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" title="Advanced data visualization">
 </p>
 
