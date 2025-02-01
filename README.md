@@ -33,20 +33,16 @@ Want to chat about **AI, sci-fi books, or your favorite Mario Kart track**? Hit 
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" title="High-level neural network API running on TensorFlow!">
   <img src="https://img.shields.io/badge/Hugging_Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white" title="Pre-trained models and NLP solutions">
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" title="Cloud-based Jupyter Notebook environment">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="Love experimenting with deep learning models">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="My interactive playground for data science!">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Containerizing apps for smooth deployments!">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="Building APIs at lightning speed!">
-  <img src="https://img.shields.io/badge/Google_Compute-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" title="Managing compute resources on GCP">
-  <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" title="Storing and managing large-scale data on the cloud">
+  <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" title="Leveraging Google Cloud for scalable AI & data solutions">
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" title="Handling large-scale data analytics">
   <img src="https://img.shields.io/badge/MLflow-00B5F5?style=for-the-badge&logo=mlflow&logoColor=white" title="Managing ML models, experiments, and tracking">
-  <img src="https://img.shields.io/badge/Prefect-3858E9?style=for-the-badge&logo=prefect&logoColor=white" title="Dataflow automation and orchestration">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" title="Building data apps and interactive dashboards">
   <img src="https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logo=python&logoColor=white" title="Statistical modeling and econometrics in Python">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Building lightweight web applications">
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" title="Advanced data visualization">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" title="Plotting and data visualization">
 </p>
 
 > *Hover over the badges to see my thoughts on each tool!*  
