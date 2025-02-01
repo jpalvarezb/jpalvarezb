@@ -3,7 +3,7 @@
 ## 👨‍💻 Welcome to My GitHub
 Hey there! I'm JP, deeply fascinated by how humans interact with technology and the role of data in shaping our experiences. My focus is on making tech more intuitive, adaptive, and human-centered.
 
-🔹 **Passionate About:** Teaching machines to understand us better, making AI feel more natural, and using data to solve real problems.
+🔹 **Passionate About:** Teaching machines to understand us better, and using data to solve real problems.
 
 🔹 **Curious About:** How AI can learn from human behavior, adapt in real-time, and make decisions that feel intuitive. 
 
