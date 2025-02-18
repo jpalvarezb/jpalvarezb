@@ -24,20 +24,20 @@ Want to chat about **AI, sci-fi books, or your favorite Mario Kart track**? Hit 
 ## 🛠️ Tech Stack & Tools (Hover to Learn More!)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="My go-to language for data and AI projects!">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" title="I use SQL to make sense of structured data">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Essential for data manipulation and analysis!">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="For efficient numerical computing">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Building ML models with Scikit-Learn!">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="Exploring deep learning with TensorFlow!">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="My long-time friend and favorite coding language. Feels like reading English!">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" title="Advanced SQL skills let me pick the brain of large databases.">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Essential (and super fast) tool for data manipulation and analysis!">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy is indispensable for data science and machine learning.">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Great for building ML models and pipelines!">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="Frustrating, powerful, and pure magic when it works.">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" title="High-level neural network API running on TensorFlow!">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white" title="Pre-trained models and NLP solutions">
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" title="Cloud-based Jupyter Notebook environment">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="My interactive playground for data science!">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Containerizing apps for smooth deployments!">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="Building APIs at lightning speed!">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white" title="A solid place to find all types of pre-trained models">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" title="Like a Jupyter Notebook environment, but in the cloud.">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Where messy ideas become structured insights.">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Because ‘it works on my machine’ isn’t good enough.">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="Blazing speed, effortless APIs, and fewer headaches!">
   <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" title="Leveraging Google Cloud for scalable AI & data solutions">
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" title="Handling large-scale data analytics">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" title="SQL at scale, insights at speed.">
   <img src="https://img.shields.io/badge/MLflow-00B5F5?style=for-the-badge&logo=mlflow&logoColor=white" title="Managing ML models, experiments, and tracking">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" title="Building data apps and interactive dashboards">
   <img src="https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logo=python&logoColor=white" title="Statistical modeling and econometrics in Python">
