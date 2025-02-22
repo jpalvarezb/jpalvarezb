@@ -1,4 +1,4 @@
-# Hi, I'm JP! 🚀
+# Hi, I'm JP! 
 
 ## 👨‍💻 Welcome to My GitHub
 Hey there! I'm JP, deeply fascinated by how humans interact with technology and the role of data in shaping our experiences. My focus is on making tech more intuitive, adaptive, and human-centered.
