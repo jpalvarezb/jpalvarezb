@@ -1,33 +1,22 @@
-# Hi, I'm JP! 
+# Hi, I'm JP
 
-## 👨‍💻 Welcome to My GitHub
-Hey there! I'm JP, deeply fascinated by how humans interact with technology and the role of data in shaping our experiences. My focus is on making tech more intuitive, adaptive, and human-centered.
+## Welcome to My GitHub
 
-🔹 **Passionate About:** Teaching machines to understand us better, and using data to solve real problems.
+I'm a data scientist and AI engineer focused on building robust, real-world systems. My background bridges digital marketing and data infrastructure, with an emphasis on delivering AI that solves concrete problems.
 
-🔹 **Curious About:** How AI can learn from human behavior, adapt in real-time, and make decisions that feel intuitive. 
-
-🔹 **Here for:** Building smarter systems, automating the boring stuff, and making tech work the way we actually want it to. 
+My current work involves multi-agent architectures, cloud-based ML deployment, and NLP-driven decision tools. I'm especially interested in human-centered AI systems that enhance, rather than replace, real work.
 
 ---
-## 🎮 A Little More About Me
 
-<div align="left">
-  
-🎾 Ping Pong Enthusiast  | 🎨 Art Lover  | 🏎️ Mario Kart Champion 
-
-📚 Sci-Fi Geek  | ⛰️ Nature Explorer  | 🍜 Always Up for Ramen  
-
-Want to chat about **AI, sci-fi books, or your favorite Mario Kart track**? Hit me up!  
-
----
-## 🛠️ Tech Stack & Tools (Hover to Learn More!)
+## Core Skills and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="My long-time friend and favorite coding language. Feels like reading English!">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" title="Advanced SQL skills let me pick the brain of large databases.">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Used for scripting, web-based tools, and multi-agent UIs.">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Essential (and super fast) tool for data manipulation and analysis!">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy is indispensable for data science and machine learning.">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" title="Multi-agent orchestration and stateful LLM workflows with LangGraph"> 
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Great for building ML models and pipelines!">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="Frustrating, powerful, and pure magic when it works.">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" title="High-level neural network API running on TensorFlow!">
@@ -38,28 +27,34 @@ Want to chat about **AI, sci-fi books, or your favorite Mario Kart track**? Hit 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="Blazing speed, effortless APIs, and fewer headaches!">
   <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" title="Leveraging Google Cloud for scalable AI & data solutions">
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" title="SQL at scale, insights at speed.">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" title="Building, scaling, and deploying apps using Azure infrastructure.">
+  <img src="https://img.shields.io/badge/Databricks-EF3E3E?style=for-the-badge&logo=databricks&logoColor=white" title="Distributed data + ML pipelines with Delta Lake and Unity Catalog.">
   <img src="https://img.shields.io/badge/MLflow-00B5F5?style=for-the-badge&logo=mlflow&logoColor=white" title="Managing ML models, experiments, and tracking">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" title="Building data apps and interactive dashboards">
   <img src="https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logo=python&logoColor=white" title="Statistical modeling and econometrics in Python">
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" title="Advanced data visualization">
 </p>
 
-> *Hover over the badges to see my thoughts on each tool!*  
+---
+
+## Areas of Focus
+
+- Multi-agent AI systems for business intelligence and analytics
+- Cloud-native machine learning pipelines and deployment
+- NLP for workflow automation and interaction design
+---
+
+## Current Projects
+
+- Building production-ready AI assistants for business and operational intelligence
+- Experimenting with prompt-based interfaces that bridge structured data with LLM reasoning
+- Creating robust ML pipelines to optimize supply chains and overall operations
+- AI implementations for database development and data lifecycle management
 
 ---
-## 🔥 Exploring Tech & Interaction
-📊 **Data as a Storyteller** – How can we transform raw data into meaningful human insights?  
-🤖 **AI & Empathy** – Can machines truly understand human emotions and intent?  
-🦾 **Automation & Intelligent Workflows** – How can we leverage AI to create seamless systems that enhance productivity?
 
----
-## 🚀 What I'm Working On
-🔹 Researching behavioral data and its role in AI-driven decision-making  
-🔹 Experimenting with NLP for more natural human-AI interactions  
-🔹 Prototyping new ways to make tech feel more human  
+## Connect
 
----
-## 🌍 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/jpalvarezb">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -69,4 +64,6 @@ Want to chat about **AI, sci-fi books, or your favorite Mario Kart track**? Hit 
   </a>
 </p>
 
-💡 *“Technology should enhance human connection, not replace it.”*
+---
+
+> "Technology should enhance human connection, not replace it."
